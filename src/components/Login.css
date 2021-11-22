@@ -1,0 +1,11 @@
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.fbIcon{
+    color: #3b5998;
+    cursor: pointer;
+}
